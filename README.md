@@ -7,7 +7,7 @@
 
 ### About Me:
 
-I am an aspiring Data Scientist working in Southern California
+I am an aspiring Full Stack Data Scientist working in Southern California
 
 - :telescope: I’m working at Itron as a Business Intelligence and Analytics Specialist
 
